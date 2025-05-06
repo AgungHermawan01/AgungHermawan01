@@ -1,6 +1,6 @@
 ## Hello I'm Agung Hermawan 👋
 
-![Gojo Satoru](img/header.png)
+![Gojo Satoru](img/header1.png)
 
 <!-- **AgungHermawan01/AgungHermawan01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 
